@@ -6,6 +6,8 @@ public class principal {
 		// TODO Auto-generated method stub
 		System.out.println("Estamos empezando el proyecto con Git");
 		System.out.println("Primera modificacion del proyecto");
+		System.out.println("Segunda modificacion del proyecto");
+
 	}
 
 }
